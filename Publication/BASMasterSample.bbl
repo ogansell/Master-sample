@@ -1,0 +1,132 @@
+\begin{thebibliography}{10}
+
+\bibitem{sp2}
+Roger~S. Bivand, Edzer Pebesma, and Virgilio Gomez-Rubio.
+\newblock {\em Applied spatial data analysis with {R}, Second edition}.
+\newblock Springer, NY, 2013.
+
+\bibitem{Coomes2002}
+D.~A. Coomes, R.~B. Allen, N.~A. Scott, C.~Goulding, and P.~Beets.
+\newblock Designing systems to monitor carbon stocks in forests and shrublands.
+\newblock {\em Forest Ecology and Management}, 164(1):89--108, 2002.
+
+\bibitem{Field2007}
+S.~A. Field, P.~J. {O'Connor}, A.~J. Tyre, and H.~P. Possingham.
+\newblock Making monitoring meaningful.
+\newblock {\em Austral Ecology}, 32(5):485--491, 2007.
+
+\bibitem{Gitzen2012}
+R.~A. Gitzen.
+\newblock {\em Design and analysis of long-term ecological monitoring studies}.
+\newblock Cambridge University Press, 2012.
+
+\bibitem{Grafstrom2012}
+A.~Grafstr{\"o}m, N.~L.~P. Lundstr{\"o}m, and L.~Schelin.
+\newblock Spatially balanced sampling through the pivotal method.
+\newblock {\em Biometrics}, 68(2):514--520, 2012.
+
+\bibitem{spsurvey}
+T.~M. Kincaid and A.~R. Olsen.
+\newblock {\em spsurvey: Spatial Survey Design and Analysis}, 2016.
+\newblock R package version 3.3.
+
+\bibitem{King1945}
+A.~J. King.
+\newblock The master sample of agriculture: I. development and use.
+\newblock {\em Journal of the American Statistical Association},
+  40(229):38--45, 1945.
+
+\bibitem{LarsenOlsenStevens2008}
+D.~P. Larsen, A.~R. Olsen, and {D. L., Jr.} Stevens.
+\newblock Using a master sample to integrate stream monitoring programs.
+\newblock {\em Journal of Agricultural, Biological, and Environmental
+  Statistics}, 13(3):243--254, 2008.
+
+\bibitem{Legg2006}
+C.~J. Legg and L.~Nagy.
+\newblock Why most conservation monitoring is, but need not be, a waste of
+  time.
+\newblock {\em Journal of environmental management}, 78(2):194--199, 2006.
+
+\bibitem{Mcdonald2003}
+T.~L. McDonald.
+\newblock Review of environmental monitoring methods: survey designs.
+\newblock {\em Environmental monitoring and assessment}, 85(3):277--292, 2003.
+
+\bibitem{Nichols2006}
+J.~D. Nichols and B.~K. Williams.
+\newblock Monitoring for conservation.
+\newblock {\em Trends in ecology \& evolution}, 21(12):668--673, 2006.
+
+\bibitem{DOC}
+Department of~Conservation.
+
+\bibitem{sp1}
+Edzer~J. Pebesma and Roger~S. Bivand.
+\newblock Classes and methods for spatial data in {R}.
+\newblock {\em R News}, 5(2):9--13, November 2005.
+
+\bibitem{Peterson1999}
+S.~A. Peterson, N.~S. Urquhart, and E.~B. Welch.
+\newblock Sample representativeness: a must for reliable regional lake
+  condition estimates.
+\newblock {\em Environmental science \& technology}, 33(10):1559--1565, 1999.
+
+\bibitem{R}
+{R Core Team}.
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2015.
+
+\bibitem{Reynolds2016}
+J.~H Reynolds, K.~B. Knutson, M.~G .and~Newman, E.~D. Silverman, and W.~L.
+  Thompson.
+\newblock A road map for designing and implementing a biological monitoring
+  program.
+\newblock {\em Environmental Monitoring and Assessment}, 188(7):1--25, 2016.
+
+\bibitem{Robertson2013}
+B.~L. Robertson, J.~A. Brown, T.~McDonald, and P.~Jaksons.
+\newblock {BAS}: Balanced acceptance sampling of natural resources.
+\newblock {\em Biometrics}, 69(3):776--784, 2013.
+
+\bibitem{Robertson2016}
+B.~L. Robertson, T.~McDonald, C.~J. Price, and J.~A. Brown.
+\newblock The halton frame: A useful sampling frame for balanced acceptance
+  sampling.
+\newblock unpublished.
+
+\bibitem{Skalski1990}
+J.~R. Skalski.
+\newblock A design for long-term status and trends monitoring.
+\newblock {\em Journal of Environmental Management}, 30(2):139--144, 1990.
+
+\bibitem{Stevens1997}
+{D. L., Jr.} Stevens.
+\newblock Variable density grid-based sampling designs for continuous spatial
+  populations.
+\newblock {\em Environmetrics}, 8(3):167--195, 1997.
+
+\bibitem{StevensOlsen2004}
+{D. L., Jr.} Stevens and A.~R. Olsen.
+\newblock Spatially balanced sampling of natural resources.
+\newblock {\em Journal of the American Statistical Association},
+  99(465):262--278, 2004.
+
+\bibitem{StevensOlsen1999}
+{D.L., Jr.} Stevens and A.~R. Olsen.
+\newblock Spatially restricted surveys over time for aquatic resources.
+\newblock {\em Journal of Agricultural, Biological, and Environmental
+  Statistics}, 4(4):415--428, 1999.
+
+\bibitem{Vos2000}
+P.~Vos, E.~Meelis, and W.~J. Ter~Keurs.
+\newblock A framework for the design of ecological monitoring programs as a
+  tool for environmental and nature management.
+\newblock {\em Environmental monitoring and assessment}, 61(3):317--344, 2000.
+
+\bibitem{Yoccoz2001}
+N.~G. Yoccoz, J.~D. Nichols, and T.~Boulinier.
+\newblock Monitoring of biological diversity in space and time.
+\newblock {\em Trends in Ecology \& Evolution}, 16(8):446--453, 2001.
+
+\end{thebibliography}

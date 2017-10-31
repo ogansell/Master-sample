@@ -1,0 +1,195 @@
+\begin{thebibliography}{34}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Coomes \emph{et~al.}(2002)Coomes, Allen, Scott, Goulding \&
+  Beets}]{Coomes2002}
+Coomes, D.A., Allen, R.B., Scott, N.A., Goulding, C. \& Beets, P. (2002)
+  Designing systems to monitor carbon stocks in forests and shrublands.
+\newblock \emph{Forest Ecology and Management}, \textbf{164}, 89--108.
+
+\bibitem[{{Department of Conservation}(2013)}]{DOCIOO}
+{Department of Conservation} (2013) Statement of intent 2012--2017.
+\newblock
+  \url{http://www.doc.govt.nz/Documents/about-doc/statement-of-intent-2012-2017/statement-of-intent-2013-2017.pdf}.
+\newblock Accessed: 2017-09-26.
+
+\bibitem[{{Department of Conservation}(2016)}]{DOC}
+{Department of Conservation} (2016) Monitoring species and habitats in
+  terrestrial, freshwater and marine environments.
+\newblock
+  \url{http://www.doc.govt.nz/our-work/biodiversity-inventory-and-monitoring/}.
+\newblock Accessed: 2016-09-29.
+
+\bibitem[{Field \emph{et~al.}(2007)Field, {O'Connor}, Tyre \&
+  Possingham}]{Field2007}
+Field, S.A., {O'Connor}, P.J., Tyre, A.J. \& Possingham, H.P. (2007) Making
+  monitoring meaningful.
+\newblock \emph{Austral Ecology}, \textbf{32}, 485--491.
+
+\bibitem[{Foster(2016)}]{MBHdesign}
+Foster, S.D. (2016) \emph{MBHdesign: Spatial Designs for Ecological and
+  Environmental Surveys}.
+\newblock R package version 1.0.61.
+
+\bibitem[{Foster \emph{et~al.}(2017)Foster, Hosack, Lawrence, Przeslawski,
+  Hedge, Caley, Barrett, Williams, Li, Lynch \emph{et~al.}}]{Foster2017}
+Foster, S.D., Hosack, G.R., Lawrence, E., Przeslawski, R., Hedge, P., Caley,
+  M.J., Barrett, N.S., Williams, A., Li, J., Lynch, T. \emph{et~al.} (2017)
+  Spatially-balanced designs that incorporate legacy sites.
+\newblock \emph{Methods in Ecology and Evolution}.
+
+\bibitem[{Gitzen(2012)}]{Gitzen2012}
+Gitzen, R.A. (2012) \emph{Design and analysis of long-term ecological
+  monitoring studies}.
+\newblock Cambridge University Press.
+
+\bibitem[{Grafstr{\"o}m \emph{et~al.}(2012)Grafstr{\"o}m, Lundstr{\"o}m \&
+  Schelin}]{Grafstrom2012}
+Grafstr{\"o}m, A., Lundstr{\"o}m, N.L.P. \& Schelin, L. (2012) Spatially
+  balanced sampling through the pivotal method.
+\newblock \emph{Biometrics}, \textbf{68}, 514--520.
+
+\bibitem[{Grafstr{\"o}m \& Lundstr{\"o}m(2013)}]{Grafstrom2013}
+Grafstr{\"o}m, A. \& Lundstr{\"o}m, N.L. (2013) Why well spread probability
+  samples are balanced.
+\newblock \emph{Open Journal of Statistics}, \textbf{3}, 36--41.
+
+\bibitem[{Grafstr{\"o}m \emph{et~al.}(2014)Grafstr{\"o}m, Saarela \&
+  Ene}]{Grafstrom2014}
+Grafstr{\"o}m, A., Saarela, S. \& Ene, L.T. (2014) Efficient sampling
+  strategies for forest inventories by spreading the sample in auxiliary space.
+\newblock \emph{Canadian Journal of Forest Research}, \textbf{44}, 1156--1164.
+
+\bibitem[{Green \& MacLeod(2016)}]{simr}
+Green, P. \& MacLeod, C.J. (2016) simr: an r package for power analysis of
+  generalised linear mixed models by simulation.
+\newblock \emph{Methods in Ecology and Evolution}, \textbf{7}, 493--498.
+
+\bibitem[{Halton(1960)}]{Halton1960}
+Halton, J.H. (1960) On the efficiency of certain quasi-random sequences of
+  points in evaluating multi-dimensional integrals.
+\newblock \emph{Numerische Mathematik}, \textbf{2}, 84--90.
+
+\bibitem[{Kincaid \& Olsen(2016)}]{spsurvey}
+Kincaid, T.M. \& Olsen, A.R. (2016) \emph{spsurvey: Spatial Survey Design and
+  Analysis}.
+\newblock R package version 3.3.
+
+\bibitem[{King(1945)}]{King1945}
+King, A.J. (1945) The master sample of agriculture: I. development and use.
+\newblock \emph{Journal of the American Statistical Association}, \textbf{40},
+  38--45.
+
+\bibitem[{Larsen \emph{et~al.}(2008)Larsen, Olsen \&
+  Stevens}]{LarsenOlsenStevens2008}
+Larsen, D.P., Olsen, A.R. \& Stevens, D. (2008) Using a master sample to
+  integrate stream monitoring programs.
+\newblock \emph{Journal of Agricultural, Biological, and Environmental
+  Statistics}, \textbf{13}, 243--254.
+
+\bibitem[{Legg \& Nagy(2006)}]{Legg2006}
+Legg, C.J. \& Nagy, L. (2006) Why most conservation monitoring is, but need not
+  be, a waste of time.
+\newblock \emph{Journal of environmental management}, \textbf{78}, 194--199.
+
+\bibitem[{McDonald(2003)}]{Mcdonald2003}
+McDonald, T.L. (2003) Review of environmental monitoring methods: survey
+  designs.
+\newblock \emph{Environmental monitoring and assessment}, \textbf{85},
+  277--292.
+
+\bibitem[{Nichols \& Williams(2006)}]{Nichols2006}
+Nichols, J.D. \& Williams, B.K. (2006) Monitoring for conservation.
+\newblock \emph{Trends in ecology \& evolution}, \textbf{21}, 668--673.
+
+\bibitem[{Peterson \emph{et~al.}(1999)Peterson, Urquhart \&
+  Welch}]{Peterson1999}
+Peterson, S.A., Urquhart, N.S. \& Welch, E.B. (1999) Sample representativeness:
+  a must for reliable regional lake condition estimates.
+\newblock \emph{Environmental science \& technology}, \textbf{33}, 1559--1565.
+
+\bibitem[{{R Core Team}(2015)}]{R}
+{R Core Team} (2015) \emph{R: A Language and Environment for Statistical
+  Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[{Reynolds \emph{et~al.}(2016)Reynolds, Knutson, Newman, Silverman \&
+  Thompson}]{Reynolds2016}
+Reynolds, J.H., Knutson, M.G., Newman, K.B., Silverman, E.D. \& Thompson, W.L.
+  (2016) A road map for designing and implementing a biological monitoring
+  program.
+\newblock \emph{Environmental Monitoring and Assessment}, \textbf{188}, 1--25.
+
+\bibitem[{Robertson \emph{et~al.}(2013)Robertson, Brown, McDonald \&
+  Jaksons}]{Robertson2013}
+Robertson, B.L., Brown, J.A., McDonald, T. \& Jaksons, P. (2013) {BAS}:
+  Balanced acceptance sampling of natural resources.
+\newblock \emph{Biometrics}, \textbf{69}, 776--784.
+
+\bibitem[{Robertson \emph{et~al.}(2017)Robertson, McDonald, Price \&
+  Brown}]{Robertson2017}
+Robertson, B., McDonald, T., Price, C. \& Brown, J. (2017) A modification of
+  balanced acceptance sampling.
+\newblock \emph{Statistics \& Probability Letters}.
+
+\bibitem[{Skalski(1990)}]{Skalski1990}
+Skalski, J.R. (1990) A design for long-term status and trends monitoring.
+\newblock \emph{Journal of Environmental Management}, \textbf{30}, 139--144.
+
+\bibitem[{Stevens(1997)}]{Stevens1997}
+Stevens, D. (1997) Variable density grid-based sampling designs for continuous
+  spatial populations.
+\newblock \emph{Environmetrics}, \textbf{8}, 167--195.
+
+\bibitem[{Stevens \& Olsen(2003)}]{StevensOlsen2003}
+Stevens, D. \& Olsen, A.R. (2003) Variance estimation for spatially balanced
+  samples of environmental resources.
+\newblock \emph{Environmetrics}, \textbf{14}, 593--610.
+
+\bibitem[{Stevens \& Olsen(2004)}]{StevensOlsen2004}
+Stevens, D. \& Olsen, A.R. (2004) Spatially balanced sampling of natural
+  resources.
+\newblock \emph{Journal of the American Statistical Association}, \textbf{99},
+  262--278.
+
+\bibitem[{Stevens \& Olsen(1999)}]{StevensOlsen1999}
+Stevens, D. \& Olsen, A.R. (1999) Spatially restricted surveys over time for
+  aquatic resources.
+\newblock \emph{Journal of Agricultural, Biological, and Environmental
+  Statistics}, \textbf{4}, 415--428.
+
+\bibitem[{Theobald(2016)}]{theobald2016}
+Theobald, D.M. (2016) A general-purpose spatial survey design for collaborative
+  science and monitoring of global environmental change: The global grid.
+\newblock \emph{Remote Sensing}, \textbf{8}, 813.
+
+\bibitem[{Theobald \emph{et~al.}(2007)Theobald, Stevens, White, Urquhart, Olsen
+  \& Norman}]{theobald2007}
+Theobald, D.M., Stevens, D.L., White, D., Urquhart, N.S., Olsen, A.R. \&
+  Norman, J.B. (2007) Using gis to generate spatially balanced random survey
+  designs for natural resource applications.
+\newblock \emph{Environmental Management}, \textbf{40}, 134--146.
+
+\bibitem[{Urquhart \& Kincaid(1999)}]{Urquhart1999}
+Urquhart, N.S. \& Kincaid, T.M. (1999) Designs for detecting trend from
+  repeated surveys of ecological resources.
+\newblock \emph{Journal of Agricultural, Biological, and Environmental
+  Statistics}, pp. 404--414.
+
+\bibitem[{Vos \emph{et~al.}(2000)Vos, Meelis \& Ter~Keurs}]{Vos2000}
+Vos, P., Meelis, E. \& Ter~Keurs, W.J. (2000) A framework for the design of
+  ecological monitoring programs as a tool for environmental and nature
+  management.
+\newblock \emph{Environmental monitoring and assessment}, \textbf{61},
+  317--344.
+
+\bibitem[{Wang \& Hickernell(2000)}]{Wang2000}
+Wang, X. \& Hickernell, F.J. (2000) Randomized halton sequences.
+\newblock \emph{Mathematical and Computer Modelling}, \textbf{32}, 887--899.
+
+\bibitem[{Yoccoz \emph{et~al.}(2001)Yoccoz, Nichols \& Boulinier}]{Yoccoz2001}
+Yoccoz, N.G., Nichols, J.D. \& Boulinier, T. (2001) Monitoring of biological
+  diversity in space and time.
+\newblock \emph{Trends in Ecology \& Evolution}, \textbf{16}, 446--453.
+
+\end{thebibliography}

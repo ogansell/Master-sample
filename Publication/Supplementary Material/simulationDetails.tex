@@ -1,0 +1,30 @@
+\documentclass[]{report}
+\usepackage{amsmath}
+
+% Title Page
+\title{}
+\author{}
+
+
+\begin{document}
+
+\section*{Introduction}
+A sample frame was a $100 \times 100$ raster in $[0,1)^2$. The response value for each raster cell was defined by 3 different functions which we will call population 1, 2 and 3. These raster cells were given an index $(i,j) \in 1,2,...,100$. A raster cell was selected using 4 different sampling techinques: BAS, GRTS, simple sandom sampling, and systematic on the surface $[0,100)^2$ and take the $floor(\boldsymbol{x}) + 1$ for the coordinate $x$. Simulations were run testing two different scenarios; legacy plots included as a simple random sample and as a systematic sample with a random start.
+
+\section*{Simple Random Sample}
+A simple random sample (SRS) of size $n_l < 60$ was drawn as described above. These points have inclusion probabilty of $\pi_l = \frac{n_l}{10000}$. This was then intensified by drawing a BAS, GRTS and altered BAS (aBAS) sample of size $n = 60 - n_l$. For BAS and GRTS we now considered an overall new sample with the SRS points that had inclusion probabilities of $\pi_i = \frac{60}{10000}$. For the aBAS sample the altered inclusion probabilities were calculated as in Foster et. al. (2017) and we will call them $\pi_{ai}$.
+
+Analysis was carried out for BAS and GRTS as
+$$ \bar{y} = \frac{1}{10000} * \sum_{i = 1}^{60} y_i/\pi_i $$
+where $y_i$ is the observed response value for sample $i$. For aBAS we followed as described in Foster et al. (2017) and calculated the sample mean as
+$$ \bar{y} = \frac{1}{10000} * \left( \frac{n_l}{60}\sum_{i = 1}^{n_l} y_i/\pi_l  + \frac{n + n_l}{60}\sum_{i = 1}^{n} y_i/\pi_{ai} \right).$$
+
+Spatial balance of these 3 samples was calculated as described by Olsen et al. (2007). However, we consider visual balance to be the comparable metric and did not use the altered inclusion probabilities from aBAS instead assuming an equal probable sample. This follows from Foster et al. (2017) and is for the purpose of testing sampling aesthetics. Sampling efficiency gained from spatial balance, or lack there of is shown in the estimation simulations.
+
+For each sample size of $3 \geq n_l \leq 57$ we ran $1000$ simulations.
+
+\section*{Random-Start Systematic Sample}
+Everything was repeated as above however, instead of testing sample size $n_l$ we used grid distance of $k \in 14, 15,...,67$. This is because sample size varies depending on the random start and distance between points. Simple random samples were added to systematic as well here.
+
+
+\end{document}          

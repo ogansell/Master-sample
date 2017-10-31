@@ -1,0 +1,15 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: BASMasterSample.aux
+The style file: Plain.bst
+Database file #1: ../LitReview/MasterSampleLit.bib
+You're missing a field name---line 22 of file ../LitReview/MasterSampleLit.bib
+ :  
+ :  %publisher={Wiley Online Library}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 220 of file ../LitReview/MasterSampleLit.bib
+ :    
+ :    title = {Monitoring species and habitats in terrestrial, freshwater and marine environments},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in Robertson2016
+(There were 2 error messages)
