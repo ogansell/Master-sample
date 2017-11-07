@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{36}
 \providecommand{\natexlab}[1]{#1}
 
 \bibitem[{Coomes \emph{et~al.}(2002)Coomes, Allen, Scott, Goulding \&
@@ -19,6 +19,18 @@ Coomes, D.A., Allen, R.B., Scott, N.A., Goulding, C. \& Beets, P. (2002)
 \newblock
   \url{http://www.doc.govt.nz/our-work/biodiversity-inventory-and-monitoring/}.
 \newblock Accessed: 2016-09-29.
+
+\bibitem[{Dixon \emph{et~al.}(1998)Dixon, Olsen \& Kahn}]{dixon1998measuring}
+Dixon, P.M., Olsen, A.R. \& Kahn, B.M. (1998) Measuring trends in ecological
+  resources.
+\newblock \emph{Ecological Applications}, pp. 225--227.
+
+\bibitem[{Fancy \emph{et~al.}(2009)Fancy, Gross \&
+  Carter}]{fancy2009monitoring}
+Fancy, S., Gross, J. \& Carter, S. (2009) Monitoring the condition of natural
+  resources in us national parks.
+\newblock \emph{Environmental Monitoring and Assessment}, \textbf{151},
+  161--174.
 
 \bibitem[{Field \emph{et~al.}(2007)Field, {O'Connor}, Tyre \&
   Possingham}]{Field2007}

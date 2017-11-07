@@ -1,3 +1,19 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Master sample using balanced acceptance sampling.aux
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  Microsoft(R) C/C++ for Win32
+Release version: 3.71 (18 mar 2013)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: Master sample using balanced acceptance sampling.aux
 The style file: mee.bst
+Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
+Reallocated global_strs (elt_size=20001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=4) to 10 items from 0.
 Database file #1: MasterSampleLit.bib
+
+Here's how much of BibTeX's memory you used:
+ Cites:                36 out of 750
+ Fields:              469 out of 5000
+ Hash table:        35096 out of 35307
+ Strings:             835 out of 35307
+ Free string pool:  10738 out of 65000
+ Wizard functions:   2811 out of 3000
