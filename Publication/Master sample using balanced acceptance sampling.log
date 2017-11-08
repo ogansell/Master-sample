@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.4.3)  7 NOV 2017 17:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.4.3)  8 NOV 2017 15:03
 entering extended mode
 **"./Master sample using balanced acceptance sampling.tex"
 ("Master sample using balanced acceptance sampling.tex"
@@ -607,7 +607,7 @@ Overfull \vbox (37.19998pt too high) has occurred while \output is active []
 
 
 [26]
-Overfull \hbox (11.72305pt too wide) in paragraph at lines 218--239
+Overfull \hbox (11.72305pt too wide) in paragraph at lines 219--240
 [][] 
  []
 
@@ -624,13 +624,13 @@ Package epstopdf Info: Source file: <HaltonGrid.eps>
 (epstopdf)                    size: 6621 bytes
 (epstopdf)             Command: <epstopdf --outfile=HaltonGrid-eps-converted-to
 .pdf HaltonGrid.eps>
-(epstopdf)             \includegraphics on input line 246.
+(epstopdf)             \includegraphics on input line 247.
 Package epstopdf Info: Output file is already uptodate.
  <HaltonGrid-eps-converted-to.pdf, id=115, 578.16pt x 758.835pt>
 File: HaltonGrid-eps-converted-to.pdf Graphic file (type pdf)
 
 <use HaltonGrid-eps-converted-to.pdf>
-Package pdftex.def Info: HaltonGrid-eps-converted-to.pdf used on input line 246
+Package pdftex.def Info: HaltonGrid-eps-converted-to.pdf used on input line 247
 .
 (pdftex.def)             Requested size: 578.15858pt x 758.83316pt.
  [28 <./HaltonGrid-eps-converted-to.pdf>]
@@ -642,7 +642,7 @@ Package epstopdf Info: Source file: <ChangingBoundary1.eps>
 (epstopdf)                    size: 7125 bytes
 (epstopdf)             Command: <epstopdf --outfile=ChangingBoundary1-eps-conve
 rted-to.pdf ChangingBoundary1.eps>
-(epstopdf)             \includegraphics on input line 255.
+(epstopdf)             \includegraphics on input line 256.
 Package epstopdf Info: Output file is already uptodate.
 
 <ChangingBoundary1-eps-converted-to.pdf, id=124, 578.16pt x 758.835pt>
@@ -650,7 +650,7 @@ File: ChangingBoundary1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ChangingBoundary1-eps-converted-to.pdf>
 Package pdftex.def Info: ChangingBoundary1-eps-converted-to.pdf used on input l
-ine 255.
+ine 256.
 (pdftex.def)             Requested size: 172.5pt x 226.40173pt.
 Package epstopdf Info: Source file: <ChangingBoundary2.eps>
 (epstopdf)                    date: 2017-09-21 11:22:29
@@ -660,7 +660,7 @@ Package epstopdf Info: Source file: <ChangingBoundary2.eps>
 (epstopdf)                    size: 7229 bytes
 (epstopdf)             Command: <epstopdf --outfile=ChangingBoundary2-eps-conve
 rted-to.pdf ChangingBoundary2.eps>
-(epstopdf)             \includegraphics on input line 257.
+(epstopdf)             \includegraphics on input line 258.
 Package epstopdf Info: Output file is already uptodate.
 
 <ChangingBoundary2-eps-converted-to.pdf, id=125, 578.16pt x 758.835pt>
@@ -668,7 +668,7 @@ File: ChangingBoundary2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ChangingBoundary2-eps-converted-to.pdf>
 Package pdftex.def Info: ChangingBoundary2-eps-converted-to.pdf used on input l
-ine 257.
+ine 258.
 (pdftex.def)             Requested size: 172.5pt x 226.40173pt.
  [29 <./ChangingBoundary1-eps-converted-to.pdf> <./ChangingBoundary2-eps-conver
 ted-to.pdf>]
@@ -680,14 +680,14 @@ Package epstopdf Info: Source file: <Estimation.eps>
 (epstopdf)                    size: 18002 bytes
 (epstopdf)             Command: <epstopdf --outfile=Estimation-eps-converted-to
 .pdf Estimation.eps>
-(epstopdf)             \includegraphics on input line 264.
+(epstopdf)             \includegraphics on input line 265.
 Package epstopdf Info: Output file is already uptodate.
 
 <Estimation-eps-converted-to.pdf, id=140, 626.34pt x 569.12625pt>
 File: Estimation-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Estimation-eps-converted-to.pdf>
-Package pdftex.def Info: Estimation-eps-converted-to.pdf used on input line 264
+Package pdftex.def Info: Estimation-eps-converted-to.pdf used on input line 265
 .
 (pdftex.def)             Requested size: 313.16922pt x 284.56242pt.
  [30 <./Estimation-eps-converted-to.pdf>]
@@ -699,14 +699,14 @@ Package epstopdf Info: Source file: <SIMS.eps>
 (epstopdf)                    size: 2125160 bytes
 (epstopdf)             Command: <epstopdf --outfile=SIMS-eps-converted-to.pdf S
 IMS.eps>
-(epstopdf)             \includegraphics on input line 274.
+(epstopdf)             \includegraphics on input line 275.
 Package epstopdf Info: Output file is already uptodate.
 
 <SIMS-eps-converted-to.pdf, id=150, 569.12625pt x 569.12625pt>
 File: SIMS-eps-converted-to.pdf Graphic file (type pdf)
 
 <use SIMS-eps-converted-to.pdf>
-Package pdftex.def Info: SIMS-eps-converted-to.pdf used on input line 274.
+Package pdftex.def Info: SIMS-eps-converted-to.pdf used on input line 275.
 (pdftex.def)             Requested size: 207.0021pt x 207.00423pt.
 Package epstopdf Info: Source file: <Tier2EMUMS.eps>
 (epstopdf)                    date: 2017-09-27 11:51:17
@@ -716,14 +716,14 @@ Package epstopdf Info: Source file: <Tier2EMUMS.eps>
 (epstopdf)                    size: 1824253 bytes
 (epstopdf)             Command: <epstopdf --outfile=Tier2EMUMS-eps-converted-to
 .pdf Tier2EMUMS.eps>
-(epstopdf)             \includegraphics on input line 276.
+(epstopdf)             \includegraphics on input line 277.
 Package epstopdf Info: Output file is already uptodate.
 
 <Tier2EMUMS-eps-converted-to.pdf, id=151, 569.12625pt x 569.12625pt>
 File: Tier2EMUMS-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Tier2EMUMS-eps-converted-to.pdf>
-Package pdftex.def Info: Tier2EMUMS-eps-converted-to.pdf used on input line 276
+Package pdftex.def Info: Tier2EMUMS-eps-converted-to.pdf used on input line 277
 .
 (pdftex.def)             Requested size: 207.0021pt x 207.00423pt.
 
@@ -739,14 +739,14 @@ Package epstopdf Info: Source file: <Tasman.eps>
 (epstopdf)                    size: 68225 bytes
 (epstopdf)             Command: <epstopdf --outfile=Tasman-eps-converted-to.pdf
  Tasman.eps>
-(epstopdf)             \includegraphics on input line 284.
+(epstopdf)             \includegraphics on input line 285.
 Package epstopdf Info: Output file is already uptodate.
 
 <Tasman-eps-converted-to.pdf, id=165, 569.12625pt x 569.12625pt>
 File: Tasman-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Tasman-eps-converted-to.pdf>
-Package pdftex.def Info: Tasman-eps-converted-to.pdf used on input line 284.
+Package pdftex.def Info: Tasman-eps-converted-to.pdf used on input line 285.
 (pdftex.def)             Requested size: 345.0pt x 345.01283pt.
  [32 <./Tasman-eps-converted-to.pdf>]
 ("Master sample using balanced acceptance sampling.aux") ) 
@@ -777,7 +777,7 @@ s/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy
 m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on "Master sample using balanced acceptance sampling.pdf" (34 pa
-ges, 4337905 bytes).
+ges, 4338160 bytes).
 PDF statistics:
  233 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
